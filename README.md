@@ -1,4 +1,4 @@
-# App Intro Logo Animation Design with Figma
+# Responsive Glassy Animated Cards Using HTML & CSS
 
 Experience elegance with this glassy animated card. The responsive design showcases a mesmerizing blend of transparency and motion, creating a modern and stylish display. CSS magic at its finest!
 
