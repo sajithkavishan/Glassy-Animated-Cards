@@ -2,7 +2,7 @@
 
 Experience elegance with this glassy animated card. The responsive design showcases a mesmerizing blend of transparency and motion, creating a modern and stylish display. CSS magic at its finest!
 
-![Screenshot (17)]([https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif](https://lenadesign.org/wp-content/uploads/2019/12/untitled7-1.gif?w=580))
+![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 ![Screenshot (18)](Record_2023_09_10_18_49_26_701.mp4)
 ## Features
 
