@@ -8,7 +8,7 @@ Watch our demo video to see these animations in action:
 
 https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
 
-Capture_2024_01_18_18_00_14_876.png
+![Screenshot (17)](Capture_2024_01_18_18_00_14_876.png)
 
 https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/447003dc-cdec-4988-a57f-449b3ec305f1
 
