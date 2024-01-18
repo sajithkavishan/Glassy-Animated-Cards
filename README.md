@@ -18,8 +18,7 @@ Experience elegance with this glassy animated card. The responsive design showca
 
 Watch our demo video to see these animations in action:
 
-![Screenshot (17)](Capture_2024_01_18_18_00_14_876.png)
-
+https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
 
 ## Community
 
