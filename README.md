@@ -2,7 +2,11 @@
 
 Experience elegance with this glassy animated card. The responsive design showcases a mesmerizing blend of transparency and motion, creating a modern and stylish display. CSS magic at its finest!
 
-![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
+## Demo Video
+
+Watch our demo video to see these animations in action:
+
+https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
 
 ## Features
 
@@ -12,13 +16,7 @@ Experience elegance with this glassy animated card. The responsive design showca
 - Hover Interactivity: The card responds to user interaction, with a subtle rotation animation and changes in opacity on hover, enhancing the overall interactivity and user engagement.
 - Code Organization: The CSS code is well-organized and commented, making it easy to understand and maintain.
 
-
-
-## Demo Video
-
-Watch our demo video to see these animations in action:
-
-https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
+![Screenshot (17)](https://biq.cloud/wp-content/uploads/2021/03/355-html-and-CSS.gif)
 
 ## Community
 
