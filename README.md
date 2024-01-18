@@ -19,7 +19,7 @@ Experience elegance with this glassy animated card. The responsive design showca
 Watch our demo video to see these animations in action:
 
 [![Demo Video]()
-[![Demo Video]()
+(![Screenshot (17)](Capture_2024_01_18_18_00_14_876.png))
 
 
 ## Community
