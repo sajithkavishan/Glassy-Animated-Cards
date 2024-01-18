@@ -8,9 +8,9 @@ Watch our demo video to see these animations in action:
 
 https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
 
-(https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/447003dc-cdec-4988-a57f-449b3ec305f1)
+https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/447003dc-cdec-4988-a57f-449b3ec305f1
 
-(https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/02568635-9e8a-42e6-b673-3d6190d74c02)
+https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/02568635-9e8a-42e6-b673-3d6190d74c02
 
 ## Features
 
