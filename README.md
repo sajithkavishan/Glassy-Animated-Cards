@@ -4,11 +4,9 @@ Experience elegance with this glassy animated card. The responsive design showca
 
 ## Demo Video
 
-Watch our demo video to see these animations in action:
+Watch my demo video to see these animations in action:
 
 https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/16391520-a3e6-45b7-ac29-dc4c05204573
-
-![Screenshot (17)](Capture_2024_01_18_18_00_14_876.png)
 
 https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/447003dc-cdec-4988-a57f-449b3ec305f1
 
@@ -28,10 +26,10 @@ https://github.com/sajithkavishan/Glassy-Animated-Cards/assets/131157256/0256863
 
 Join our community of designers and developers to share insights and contributions. We value your feedback and ideas for improvements.
 
-## Connect with Us
+## Connect with Me
 
-Follow us on GitHub for updates. Connect with us on 
+Follow ME on GitHub for updates. Connect with Me
 
 LinkedIn - www.linkedin.com/in/sajith-kavishan-948005273
 
-Thank you for choosing our repository. Let's transform your app's introduction with stunning logo animations!
+Thank you for choosing My repository.
